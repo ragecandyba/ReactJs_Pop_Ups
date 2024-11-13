@@ -1,0 +1,34 @@
+
+[
+    {
+      "imageSrc": "./assets/Images/1.jpg",
+      "altText": "img1",
+      "dots": [
+        { "name": "Lipstick", "marginLeft": "50%", "bottom": "50%" },
+        { "name": "Hair brush", "marginLeft": "70%", "bottom": "30%" }
+      ]
+    },
+    {
+      "imageSrc": "./assets/Images/2.jpg",
+      "altText": "img2",
+      "dots": [
+        { "name": "Brush", "marginLeft": "37%", "bottom": "48%" },
+        { "name": "Matte Bronzer", "marginLeft": "65%", "bottom": "32%" }
+      ]
+    },
+    {
+      "imageSrc": "./assets/Images/3.jpg",
+      "altText": "img3",
+      "dots": [
+        { "name": "Face Wash", "marginLeft": "65%", "bottom": "25%" }
+      ]
+    },
+    {
+      "imageSrc": "./assets/Images/4.jpg",
+      "altText": "img4",
+      "dots": [
+        { "name": "Eye Shadow", "marginLeft": "65%", "bottom": "32%" },
+        { "name": "Blending Brush", "marginLeft": "30%", "bottom": "63%" }
+      ]
+    }
+  ]
